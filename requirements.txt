@@ -3,3 +3,4 @@ googletrans==4.0.0-rc1
 requests
 beautifulsoup4
 python-dotenv
+httpx==0.13.3
